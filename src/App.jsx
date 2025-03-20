@@ -2,7 +2,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Tabel from './table';
 import Container from 'react-bootstrap/Container';
-import './app.css';
+import './App.css';
 import Pop from './pop';
 import { useState } from 'react';
 
